@@ -1,3 +1,5 @@
+package Java;
+
 public class HoraemMinutos {
     public static void main (String [] args) {
         int hora = 14, minuto = 45;
